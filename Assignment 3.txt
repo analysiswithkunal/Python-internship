@@ -1,0 +1,23 @@
+Assignment 4
+
+> Create function for following
+
+1. Write a Python function to find the maximum of three numbers.
+
+2. Write a Python function that takes a list and returns a new list with distinct elements from the first list.
+
+3. Write a Python function to multiply all the numbers in a list.
+
+4. Write a Python function to calculate the factorial of a number (a non-negative integer). The function accepts the number as an argument.
+
+5. Write a Python program to reverse a string.
+
+6. Write a Python function to check whether a number falls within a given range.
+
+7. Write a Python function to Print Even Numbers from a Given List
+
+8. Write a Python function that takes a number as a parameter and checks whether the number is prime or not.
+
+9. Write a Python function that accepts a string and counts the number of upper and lower case letters. 
+
+> Practise reading, writting, appending data in a file

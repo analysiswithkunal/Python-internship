@@ -1,0 +1,19 @@
+Assignment 3
+
+1) Practise
+	Dictionary
+	Tuple
+	Set
+
+2) Write a function for basic math operations like add multiply substract divide and use this in your program, take 2 number input from user.
+
+3) Write a program to check Palindrome Number
+
+ For example Number 12321 is a Palindrome Number, because 12321 is equal to its reverse Number 12321.
+
+Steps for checking Palindrome number
+
+
+1. Find reverse of the given number.
+2. Compare that number with the reverse number.
+3. If number and its reverse is equal then it is a Palindrome Number otherwise not.

@@ -1,0 +1,16 @@
+
+Assignment:- 1
+
+1) Write a python program that takes in a student name, class. It should also take in five subject marks of the students and find the total mark and percentage. Display a result in such a way that their name, class,  and percentage are printed.
+
+2) Input 2 strings concatinate them and store in another variable. then perform generally used string methods on it like
+
+lower(), upper(), title(), swapcase(), capitalize(), casefold(), center(), count(), endswith(), find(), isalnum(), isdigit(), isnumeric(), isspace(), replace()
+
+
+
+
+4) Do practise of assignment operators
+
+5) In your last program where you find the total and percentage of a student's marks of 5 subject, find the grade of the student using conditional statement. Eg. grade 'A' if percentage is greator than or equals to 60, 'B' for  percentage is greator than or equals to 50 and less than 60,  'C' for  percentage is greator than or equals to 40 and less than 50,  'D' for  percentage is greator than or equals to 33 and less than 40, otherwise 'Fail'
+
