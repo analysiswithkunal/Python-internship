@@ -1,0 +1,19 @@
+Assignment 5
+
+
+1) Create a CSV file for address book, CSV file should have column for name, address, mobile, email. Insert 2-3 dummy data entered by user.
+
+
+2)  Practice DATABASE  
+1) Create Database
+2) Create 2-3 tables
+3) Insert some records
+4) Perform diffrent select operations
+5) Update some data
+6) Delete some data
+
+
+
+
+
+
