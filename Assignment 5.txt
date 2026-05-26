@@ -1,0 +1,12 @@
+Assignment 6
+
+
+1) Study the open weather API show more data in your API calling program
+2) Try building today's game yourself
+3) Search for more free API's generate your and call them to fetch data. Display some data in your program.
+
+
+
+
+
+
