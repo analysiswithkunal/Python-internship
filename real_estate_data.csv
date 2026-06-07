@@ -1,0 +1,1001 @@
+Property_ID,City,Property_Type,Bedrooms,Bathrooms,Area_sq_ft,Price_Lakhs,Furnishing_Status
+1,Delhi,Villa,3,1,4538,134,Semi-Furnished
+2,Chennai,Office,4,1,4154,451,Semi-Furnished
+3,Bangalore,Office,4,1,2104,417,Furnished
+4,Chennai,Independent House,2,1,4845,118,Furnished
+5,Noida,Office,1,1,2146,450,Furnished
+6,Chennai,Villa,2,2,3625,320,Furnished
+7,Chennai,Villa,2,1,1230,54,Semi-Furnished
+8,Noida,Apartment,3,2,4958,229,Semi-Furnished
+9,Kolkata,Penthouse,5,2,1868,415,Furnished
+10,Delhi,Independent House,2,2,1870,496,Semi-Furnished
+11,Noida,Apartment,5,1,2435,94,Semi-Furnished
+12,Pune,Villa,3,2,4188,145,Unfurnished
+13,Hyderabad,Apartment,4,2,1766,385,Furnished
+14,Pune,Office,5,1,1443,276,Furnished
+15,Delhi,Office,1,2,4790,109,Unfurnished
+16,Pune,Independent House,1,2,3348,123,Semi-Furnished
+17,Hyderabad,Villa,2,1,4686,65,Semi-Furnished
+18,Lucknow,Apartment,1,1,2839,467,Furnished
+19,Delhi,Office,3,1,4872,418,Furnished
+20,Lucknow,Villa,1,1,2308,494,Semi-Furnished
+21,Kolkata,Penthouse,1,2,4901,288,Unfurnished
+22,Delhi,Apartment,,2,1811,229,Furnished
+23,Lucknow,Independent House,4,1,553,261,Semi-Furnished
+24,Delhi,Apartment,3,1,804,499,Semi-Furnished
+25,Kolkata,Penthouse,3,1,3952,328,Unfurnished
+26,Bangalore,Apartment,2,1,4757,322,Semi-Furnished
+27,Lucknow,Apartment,1,2,4343,442,Furnished
+28,Lucknow,Villa,1,2,590,151,Unfurnished
+29,Hyderabad,Villa,2,2,3666,441,Semi-Furnished
+30,Noida,Apartment,4,2,4839,,Furnished
+31,Noida,Penthouse,4,2,1099,215,Furnished
+32,Noida,Penthouse,3,2,3302,298,Unfurnished
+33,Chennai,Office,2,1,3578,355,Furnished
+34,Delhi,Villa,2,2,,260,Semi-Furnished
+35,Lucknow,Office,1,1,1798,51,Furnished
+36,Noida,Office,3,2,4088,202,Semi-Furnished
+37,Mumbai,Independent House,4,2,551,273,Furnished
+38,Lucknow,Office,1,1,3462,245,Semi-Furnished
+39,Bangalore,Independent House,5,1,4941,271,Semi-Furnished
+40,Hyderabad,Penthouse,5,1,790,438,Furnished
+41,Chennai,Villa,2,2,3040,352,Unfurnished
+42,Delhi,Villa,1,1,2134,60,Unfurnished
+43,Noida,Penthouse,1,1,4239,202,Semi-Furnished
+44,Pune,Apartment,4,2,2359,343,Semi-Furnished
+45,Delhi,Independent House,5,2,3732,343,Semi-Furnished
+46,Lucknow,Apartment,4,1,2931,309,Semi-Furnished
+47,Pune,Villa,5,1,1769,140,Unfurnished
+48,Mumbai,Penthouse,4,1,821,450,Unfurnished
+49,Bangalore,Office,5,1,2254,456,Semi-Furnished
+50,Delhi,Penthouse,2,2,696,437,Furnished
+51,Chennai,Villa,2,2,4052,450,Furnished
+52,Pune,Independent House,5,2,3088,316,Unfurnished
+53,Hyderabad,Villa,3,1,1859,132,Unfurnished
+54,Noida,Villa,3,1,4151,388,Unfurnished
+55,Pune,Apartment,2,2,1780,257,Semi-Furnished
+56,Delhi,Apartment,3,2,2336,348,Semi-Furnished
+57,Noida,Independent House,5,1,3665,277,Furnished
+58,Lucknow,Office,3,2,4525,289,Unfurnished
+59,Noida,Independent House,2,2,1244,400,Furnished
+60,Hyderabad,Office,4,1,3294,170,Furnished
+61,Lucknow,Apartment,4,1,747,398,Furnished
+62,Mumbai,Independent House,5,2,1443,415,Unfurnished
+63,Hyderabad,Apartment,1,2,3443,252,Semi-Furnished
+64,Delhi,Penthouse,2,1,1418,219,Semi-Furnished
+65,Chennai,Apartment,4,2,2371,72,Semi-Furnished
+66,Pune,Independent House,5,1,3025,191,Unfurnished
+67,Kolkata,Apartment,3,1,2020,394,Furnished
+68,Kolkata,Apartment,2,1,1692,81,Furnished
+69,Lucknow,Apartment,1,1,624,400,Furnished
+70,Chennai,Office,4,2,4711,241,Unfurnished
+71,Hyderabad,Penthouse,4,1,4063,375,Furnished
+72,Lucknow,Apartment,1,2,1662,286,Furnished
+73,Chennai,Office,3,2,4430,97,Semi-Furnished
+74,Delhi,Villa,5,1,4229,94,Semi-Furnished
+75,Pune,Penthouse,4,2,1972,108,Unfurnished
+76,Chennai,Villa,2,2,814,263,Semi-Furnished
+77,Hyderabad,Apartment,1,2,959,490,Semi-Furnished
+78,Kolkata,Apartment,1,1,2005,214,Unfurnished
+79,Delhi,Villa,2,1,4744,453,Semi-Furnished
+80,Hyderabad,Independent House,2,2,3102,473,Furnished
+81,Kolkata,Office,2,,2602,340,Unfurnished
+82,Lucknow,Villa,5,1,4875,157,Semi-Furnished
+83,Lucknow,Villa,1,2,4667,344,Unfurnished
+84,Kolkata,Apartment,2,1,3465,168,Unfurnished
+85,Mumbai,Independent House,4,1,4670,248,Semi-Furnished
+86,Delhi,Villa,3,2,738,325,Furnished
+87,Mumbai,Penthouse,3,2,3523,328,Furnished
+88,Pune,Penthouse,3,1,4401,342,Furnished
+89,Hyderabad,Apartment,4,2,3208,318,Unfurnished
+90,Mumbai,Independent House,4,2,4442,192,Semi-Furnished
+91,Chennai,Villa,2,2,1775,418,Furnished
+92,Delhi,Villa,3,2,3876,227,Semi-Furnished
+93,Chennai,Apartment,5,2,2706,387,Furnished
+94,Pune,Independent House,3,1,3454,309,Unfurnished
+95,Chennai,Villa,4,1,1422,325,Unfurnished
+96,Noida,Independent House,4,2,2655,325,Furnished
+97,Pune,Independent House,5,2,2613,294,Unfurnished
+98,Lucknow,Penthouse,4,2,749,414,Unfurnished
+99,Chennai,Office,3,2,2846,318,Unfurnished
+100,Lucknow,Villa,3,1,4341,418,Semi-Furnished
+101,Pune,Office,2,1,1787,234,Semi-Furnished
+102,Kolkata,Apartment,1,1,3092,277,Unfurnished
+103,Delhi,Villa,1,1,4916,352,Semi-Furnished
+104,Chennai,Apartment,1,2,4859,431,Semi-Furnished
+105,Hyderabad,Penthouse,5,1,2338,245,Unfurnished
+106,Kolkata,Apartment,2,1,1965,375,Furnished
+107,Lucknow,Independent House,5,1,3348,373,Unfurnished
+108,Kolkata,Penthouse,2,2,3961,444,Semi-Furnished
+109,Noida,Office,1,2,2969,398,Semi-Furnished
+110,Bangalore,Office,1,2,1776,81,Semi-Furnished
+111,Lucknow,Independent House,2,1,3760,471,Semi-Furnished
+112,Mumbai,Office,5,1,3698,392,Semi-Furnished
+113,Chennai,Independent House,3,1,4391,305,Unfurnished
+114,Lucknow,Villa,1,2,4961,90,Furnished
+115,Bangalore,Apartment,1,1,3029,102,Semi-Furnished
+116,Kolkata,Penthouse,4,2,4162,308,Furnished
+117,Pune,Villa,3,2,1964,447,Furnished
+118,Hyderabad,Office,1,1,4468,170,Furnished
+119,Kolkata,Penthouse,1,1,2905,138,Semi-Furnished
+120,Chennai,Villa,1,1,4240,342,Unfurnished
+121,Noida,Penthouse,3,1,3393,281,Semi-Furnished
+122,Pune,Independent House,2,1,2424,290,Unfurnished
+123,Bangalore,Apartment,2,2,4924,137,Unfurnished
+124,Kolkata,Independent House,3,1,2195,255,Unfurnished
+125,Hyderabad,Villa,2,2,3365,60,Furnished
+126,Lucknow,Penthouse,4,2,3179,390,Furnished
+127,Kolkata,Office,4,2,1554,401,Unfurnished
+128,Lucknow,Villa,3,2,4977,276,Semi-Furnished
+129,Delhi,Apartment,1,2,966,423,Semi-Furnished
+130,Kolkata,Villa,3,1,4727,72,Semi-Furnished
+131,Kolkata,Apartment,5,2,3378,81,Semi-Furnished
+132,Chennai,Apartment,3,2,528,220,Furnished
+133,Mumbai,Villa,2,2,4546,385,Unfurnished
+134,Kolkata,Independent House,5,2,2421,280,Unfurnished
+135,Kolkata,Office,2,1,1160,257,Semi-Furnished
+136,Pune,Apartment,4,1,1658,242,Semi-Furnished
+137,Kolkata,Office,2,1,762,100,Semi-Furnished
+138,Mumbai,Independent House,5,2,2039,83,Semi-Furnished
+139,Lucknow,Apartment,1,1,4658,226,Unfurnished
+140,Bangalore,Independent House,4,2,1257,158,Furnished
+141,Delhi,Office,2,2,2891,152,Furnished
+142,Hyderabad,Apartment,4,2,3165,438,Unfurnished
+143,Bangalore,Independent House,4,2,1460,395,Semi-Furnished
+144,Kolkata,Office,2,2,1379,201,Semi-Furnished
+145,Noida,Villa,1,1,2972,85,Semi-Furnished
+146,Mumbai,Office,5,1,978,185,Unfurnished
+147,Noida,Villa,3,2,4011,265,Furnished
+148,Delhi,Independent House,2,1,3632,127,Semi-Furnished
+149,Hyderabad,Apartment,1,1,1777,471,Furnished
+150,Mumbai,Penthouse,5,1,4948,280,Semi-Furnished
+151,Bangalore,Office,2,2,2585,215,Semi-Furnished
+152,Noida,Office,5,1,3827,188,Semi-Furnished
+153,Chennai,Independent House,4,1,3055,428,Unfurnished
+154,Kolkata,Penthouse,4,1,2924,76,Unfurnished
+155,Delhi,Independent House,5,2,3999,246,Semi-Furnished
+156,Noida,Apartment,2,1,3415,190,Semi-Furnished
+157,Kolkata,Office,3,1,3417,416,Furnished
+158,Lucknow,Villa,2,1,4064,186,Furnished
+159,Lucknow,Independent House,5,1,3222,293,Furnished
+160,Kolkata,Penthouse,2,2,1801,171,Unfurnished
+161,Noida,Office,1,1,2427,147,Furnished
+162,Mumbai,Penthouse,5,2,2877,76,Semi-Furnished
+163,Bangalore,Apartment,1,2,1692,78,Furnished
+164,Pune,Apartment,1,1,2342,361,Semi-Furnished
+165,Mumbai,Apartment,4,1,4718,144,Unfurnished
+166,Lucknow,Villa,1,1,4691,436,Unfurnished
+167,Kolkata,Villa,2,1,3328,374,Semi-Furnished
+168,Bangalore,Penthouse,3,1,4454,466,Unfurnished
+169,Chennai,Penthouse,2,2,4815,197,Semi-Furnished
+170,Mumbai,Office,2,2,2618,474,Unfurnished
+171,Noida,Villa,1,1,4686,351,Furnished
+172,Bangalore,Office,5,1,3134,130,Furnished
+173,Lucknow,Villa,4,1,2721,421,Semi-Furnished
+174,Kolkata,Apartment,2,2,1175,365,Furnished
+175,Hyderabad,Office,2,1,1975,497,Semi-Furnished
+176,Bangalore,Penthouse,5,1,1391,353,Furnished
+177,Mumbai,Penthouse,4,2,1563,449,Unfurnished
+178,Noida,Villa,1,1,4608,355,Furnished
+179,Lucknow,Independent House,4,2,3396,165,Semi-Furnished
+180,Kolkata,Independent House,3,1,1645,422,Furnished
+181,Kolkata,Independent House,1,1,4840,166,Furnished
+182,Pune,Villa,3,2,4505,163,Unfurnished
+183,Noida,Independent House,1,2,4583,187,Unfurnished
+184,Kolkata,Apartment,5,1,1459,489,Unfurnished
+185,Noida,Apartment,3,2,3581,443,Semi-Furnished
+186,Kolkata,Independent House,5,2,2848,174,Unfurnished
+187,Mumbai,Penthouse,4,2,4416,247,Semi-Furnished
+188,Bangalore,Office,1,1,4084,117,Semi-Furnished
+189,Mumbai,Penthouse,5,2,3888,397,Semi-Furnished
+190,Mumbai,Office,3,2,1685,486,Furnished
+191,Delhi,Penthouse,2,2,1740,291,Unfurnished
+192,Mumbai,Office,5,1,1871,165,Furnished
+193,Kolkata,Office,4,1,2674,74,Furnished
+194,Hyderabad,Penthouse,5,2,1843,83,Furnished
+195,Hyderabad,Villa,4,1,2797,113,Unfurnished
+196,Chennai,Apartment,4,1,2950,181,Unfurnished
+197,Delhi,Villa,4,1,3963,213,Furnished
+198,Chennai,Penthouse,5,2,4204,428,Semi-Furnished
+199,Noida,Penthouse,5,1,4264,271,Semi-Furnished
+200,Lucknow,Independent House,2,1,4832,101,Unfurnished
+201,Lucknow,Independent House,3,1,4678,223,Unfurnished
+202,Noida,Apartment,2,1,4189,334,Semi-Furnished
+203,Mumbai,Office,1,2,664,318,Furnished
+204,Kolkata,Apartment,5,2,1892,81,Unfurnished
+205,Chennai,Penthouse,3,2,4496,441,Furnished
+206,Mumbai,Penthouse,5,2,3930,405,Unfurnished
+207,Delhi,Villa,1,1,3699,308,Semi-Furnished
+208,Kolkata,Independent House,2,1,2130,198,Furnished
+209,Bangalore,Apartment,4,1,2539,158,Unfurnished
+210,Lucknow,Penthouse,4,2,1904,95,Unfurnished
+211,Mumbai,Independent House,2,1,4475,197,Semi-Furnished
+212,Bangalore,Independent House,1,1,2016,476,Semi-Furnished
+213,Pune,Office,4,1,702,111,Furnished
+214,Bangalore,Penthouse,2,1,2355,196,Furnished
+215,Pune,Apartment,3,1,1353,185,Unfurnished
+216,Noida,Penthouse,1,1,1695,314,Unfurnished
+217,Bangalore,Villa,5,2,4250,220,Furnished
+218,Hyderabad,Apartment,1,2,3565,210,Unfurnished
+219,Kolkata,Penthouse,2,1,4408,488,Unfurnished
+220,Pune,Villa,3,1,2785,171,Semi-Furnished
+221,Chennai,Independent House,5,2,4751,449,Unfurnished
+222,Bangalore,Office,3,1,911,299,Furnished
+223,Noida,Penthouse,2,2,2996,176,Furnished
+224,Pune,Penthouse,1,2,4135,194,Furnished
+225,Delhi,Office,3,1,2130,143,Semi-Furnished
+226,Bangalore,Apartment,3,2,2315,480,Semi-Furnished
+227,Kolkata,Independent House,4,2,2962,290,Unfurnished
+228,Bangalore,Penthouse,1,2,4454,335,Semi-Furnished
+229,Chennai,Villa,5,2,1256,475,Furnished
+230,Bangalore,Office,5,2,2079,170,Semi-Furnished
+231,Pune,Penthouse,5,2,3330,460,Semi-Furnished
+232,Delhi,Apartment,5,2,1079,495,Unfurnished
+233,Pune,Apartment,5,1,3654,479,Furnished
+234,Bangalore,Villa,2,2,3249,194,Furnished
+235,Bangalore,Independent House,5,2,1021,93,Furnished
+236,Pune,Independent House,4,1,3597,495,Furnished
+237,Bangalore,Villa,2,1,2195,315,Furnished
+238,Delhi,Independent House,2,1,2234,215,Unfurnished
+239,Lucknow,Independent House,2,2,3435,422,Semi-Furnished
+240,Mumbai,Apartment,1,2,1646,91,Semi-Furnished
+241,Pune,Apartment,1,1,1151,309,Unfurnished
+242,Mumbai,Independent House,3,2,4169,357,Unfurnished
+243,Noida,Office,1,1,2880,119,Semi-Furnished
+244,Hyderabad,Office,4,1,1427,480,Furnished
+245,Lucknow,Independent House,5,2,3062,454,Furnished
+246,Chennai,Office,4,1,742,367,Unfurnished
+247,Delhi,Penthouse,4,1,4957,264,Furnished
+248,Kolkata,Villa,5,2,2315,360,Unfurnished
+249,Delhi,Villa,3,1,4892,293,Furnished
+250,Mumbai,Apartment,5,1,2609,309,Unfurnished
+251,Hyderabad,Apartment,4,2,4425,284,Semi-Furnished
+252,Delhi,Office,4,1,4555,255,Furnished
+253,Kolkata,Penthouse,4,1,2197,100,Unfurnished
+254,Bangalore,Apartment,1,1,2190,118,Unfurnished
+255,Mumbai,Apartment,5,2,2390,244,Unfurnished
+256,Mumbai,Apartment,2,2,1912,216,Furnished
+257,Noida,Independent House,1,2,4228,224,Furnished
+258,Mumbai,Apartment,1,2,4700,452,Unfurnished
+259,Noida,Independent House,4,1,2147,411,Unfurnished
+260,Hyderabad,Penthouse,5,2,4585,295,Furnished
+261,Mumbai,Penthouse,2,2,903,101,Semi-Furnished
+262,Bangalore,Apartment,3,2,988,399,Unfurnished
+263,Mumbai,Villa,5,1,2952,491,Semi-Furnished
+264,Bangalore,Independent House,5,1,4255,464,Furnished
+265,Noida,Penthouse,2,2,4011,300,Semi-Furnished
+266,Delhi,Penthouse,1,2,509,494,Furnished
+267,Bangalore,Villa,2,2,1716,438,Unfurnished
+268,Mumbai,Penthouse,1,1,3616,321,Unfurnished
+269,Bangalore,Office,5,2,4308,213,Furnished
+270,Hyderabad,Villa,3,2,1668,304,Unfurnished
+271,Bangalore,Independent House,1,1,3102,133,Semi-Furnished
+272,Lucknow,Independent House,3,2,3222,207,Unfurnished
+273,Noida,Villa,3,2,3687,108,Semi-Furnished
+274,Chennai,Apartment,3,2,1166,198,Semi-Furnished
+275,Delhi,Villa,1,2,952,332,Furnished
+276,Delhi,Villa,4,1,2519,254,Furnished
+277,Lucknow,Independent House,1,1,3372,149,Unfurnished
+278,Lucknow,Office,2,2,4218,494,Furnished
+279,Bangalore,Independent House,2,1,3371,388,Unfurnished
+280,Bangalore,Office,3,1,3314,177,Unfurnished
+281,Kolkata,Independent House,3,1,4603,257,Unfurnished
+282,Delhi,Penthouse,3,2,4608,77,Semi-Furnished
+283,Pune,Penthouse,5,2,1117,141,Semi-Furnished
+284,Noida,Villa,4,1,3833,152,Unfurnished
+285,Lucknow,Office,1,2,1264,393,Unfurnished
+286,Delhi,Independent House,5,2,4170,439,Unfurnished
+287,Noida,Penthouse,5,2,3404,305,Unfurnished
+288,Bangalore,Penthouse,2,1,2406,355,Unfurnished
+289,Kolkata,Apartment,5,1,3110,479,Furnished
+290,Delhi,Apartment,3,2,4641,439,Unfurnished
+291,Noida,Penthouse,1,1,4425,468,Furnished
+292,Noida,Office,5,2,4482,196,Semi-Furnished
+293,Pune,Apartment,1,2,3265,214,Semi-Furnished
+294,Delhi,Independent House,5,1,4308,81,Semi-Furnished
+295,Mumbai,Office,3,1,2975,260,Unfurnished
+296,Chennai,Penthouse,1,1,4239,128,Semi-Furnished
+297,Kolkata,Villa,3,2,561,445,Furnished
+298,Mumbai,Villa,1,2,2843,228,Unfurnished
+299,Lucknow,Independent House,4,2,2320,235,Semi-Furnished
+300,Lucknow,Office,3,2,2456,276,Unfurnished
+301,Lucknow,Office,1,1,4934,108,Unfurnished
+302,Noida,Villa,3,1,4792,469,Furnished
+303,Delhi,Villa,2,1,741,69,Semi-Furnished
+304,Pune,Villa,3,2,4292,186,Furnished
+305,Lucknow,Penthouse,4,1,547,460,Unfurnished
+306,Chennai,Office,1,1,4148,109,Semi-Furnished
+307,Chennai,Apartment,4,2,4926,201,Unfurnished
+308,Delhi,Penthouse,2,1,550,223,Furnished
+309,Lucknow,Office,4,1,1901,401,Unfurnished
+310,Kolkata,Villa,1,1,1286,164,Unfurnished
+311,Bangalore,Apartment,3,2,2790,221,Unfurnished
+312,Noida,Penthouse,4,2,3500,71,Furnished
+313,Lucknow,Apartment,5,2,4924,128,Furnished
+314,Lucknow,Office,1,1,2268,322,Semi-Furnished
+315,Bangalore,Independent House,2,2,3082,304,Furnished
+316,Pune,Independent House,5,2,865,368,Furnished
+317,Pune,Apartment,1,2,4144,397,Semi-Furnished
+318,Kolkata,Apartment,5,1,3314,473,Semi-Furnished
+319,Lucknow,Apartment,4,1,1772,380,Unfurnished
+320,Bangalore,Apartment,2,2,1545,435,Semi-Furnished
+321,Noida,Villa,2,2,2315,267,Unfurnished
+322,Delhi,Penthouse,5,2,1705,335,Unfurnished
+323,Hyderabad,Villa,4,2,4014,223,Furnished
+324,Delhi,Apartment,4,2,1965,490,Furnished
+325,Kolkata,Independent House,4,2,3976,282,Unfurnished
+326,Noida,Penthouse,1,2,4234,301,Furnished
+327,Chennai,Office,1,2,1132,380,Unfurnished
+328,Chennai,Office,5,2,3278,368,Unfurnished
+329,Kolkata,Office,3,2,4495,393,Unfurnished
+330,Lucknow,Penthouse,5,2,4553,323,Semi-Furnished
+331,Mumbai,Villa,2,1,3519,457,Furnished
+332,Delhi,Apartment,1,1,1684,460,Furnished
+333,Chennai,Apartment,2,1,3189,275,Semi-Furnished
+334,Pune,Office,4,1,3960,168,Furnished
+335,Bangalore,Villa,3,1,1237,90,Semi-Furnished
+336,Chennai,Independent House,4,1,1033,362,Furnished
+337,Pune,Penthouse,5,1,3520,280,Semi-Furnished
+338,Chennai,Office,1,2,893,149,Furnished
+339,Lucknow,Penthouse,4,1,4366,121,Furnished
+340,Delhi,Penthouse,1,1,3133,314,Unfurnished
+341,Bangalore,Penthouse,1,1,3360,171,Unfurnished
+342,Chennai,Apartment,1,2,3221,228,Semi-Furnished
+343,Noida,Independent House,3,2,4653,150,Furnished
+344,Noida,Independent House,4,1,3579,419,Semi-Furnished
+345,Delhi,Villa,3,1,4040,153,Semi-Furnished
+346,Bangalore,Office,5,2,1593,440,Unfurnished
+347,Kolkata,Apartment,4,2,2156,373,Furnished
+348,Lucknow,Villa,4,1,3098,343,Semi-Furnished
+349,Delhi,Apartment,4,2,3643,329,Furnished
+350,Delhi,Penthouse,2,1,910,285,Semi-Furnished
+351,Pune,Penthouse,2,2,4437,493,Semi-Furnished
+352,Bangalore,Independent House,4,1,3159,305,Semi-Furnished
+353,Kolkata,Villa,3,2,2231,359,Furnished
+354,Lucknow,Apartment,1,2,3493,439,Furnished
+355,Kolkata,Apartment,5,2,4911,229,Furnished
+356,Bangalore,Apartment,2,2,4026,473,Unfurnished
+357,Delhi,Apartment,2,2,591,356,Furnished
+358,Kolkata,Office,4,2,1807,376,Furnished
+359,Bangalore,Villa,1,1,762,114,Semi-Furnished
+360,Hyderabad,Independent House,2,2,4756,468,Unfurnished
+361,Chennai,Penthouse,5,1,4979,411,Unfurnished
+362,Pune,Penthouse,4,1,2936,499,Unfurnished
+363,Noida,Office,2,1,2866,411,Unfurnished
+364,Noida,Apartment,2,1,3901,131,Semi-Furnished
+365,Delhi,Penthouse,2,2,1352,109,Unfurnished
+366,Mumbai,Independent House,2,1,4889,91,Unfurnished
+367,Pune,Independent House,5,2,2538,474,Semi-Furnished
+368,Pune,Independent House,1,2,4287,384,Furnished
+369,Bangalore,Apartment,5,1,4683,241,Furnished
+370,Chennai,Apartment,4,1,3620,336,Unfurnished
+371,Mumbai,Apartment,2,2,4251,416,Furnished
+372,Noida,Penthouse,4,1,3395,246,Unfurnished
+373,Kolkata,Office,5,2,3415,149,Unfurnished
+374,Chennai,Office,3,2,4040,307,Semi-Furnished
+375,Kolkata,Office,4,1,4162,265,Unfurnished
+376,Kolkata,Office,5,2,4336,489,Semi-Furnished
+377,Hyderabad,Penthouse,5,2,4331,208,Unfurnished
+378,Chennai,Penthouse,1,2,1268,350,Semi-Furnished
+379,Pune,Independent House,2,1,4307,193,Semi-Furnished
+380,Pune,Apartment,5,1,1063,255,Semi-Furnished
+381,Mumbai,Independent House,4,2,1518,278,Unfurnished
+382,Hyderabad,Office,3,1,4280,262,Furnished
+383,Noida,Office,5,2,4894,478,Furnished
+384,Mumbai,Apartment,4,2,1440,139,Furnished
+385,Pune,Penthouse,4,1,3192,244,Unfurnished
+386,Kolkata,Office,4,1,3362,439,Unfurnished
+387,Noida,Apartment,2,2,1815,387,Unfurnished
+388,Chennai,Office,5,1,4805,287,Furnished
+389,Lucknow,Penthouse,2,2,1954,58,Unfurnished
+390,Lucknow,Penthouse,4,2,1251,334,Unfurnished
+391,Pune,Penthouse,4,2,4905,437,Unfurnished
+392,Mumbai,Apartment,2,1,4927,258,Semi-Furnished
+393,Lucknow,Penthouse,1,1,1678,350,Semi-Furnished
+394,Mumbai,Office,1,2,1342,280,Unfurnished
+395,Pune,Office,3,1,3910,493,Furnished
+396,Delhi,Apartment,2,2,3627,61,Unfurnished
+397,Chennai,Apartment,4,2,3155,464,Furnished
+398,Delhi,Villa,1,1,4652,341,Furnished
+399,Bangalore,Office,3,2,3404,319,Unfurnished
+400,Hyderabad,Penthouse,2,1,1039,52,Furnished
+401,Delhi,Villa,4,2,1852,482,Furnished
+402,Hyderabad,Apartment,4,2,4534,177,Furnished
+403,Lucknow,Villa,1,1,3759,353,Furnished
+404,Noida,Apartment,1,1,4437,425,Furnished
+405,Lucknow,Apartment,2,1,1180,328,Unfurnished
+406,Bangalore,Apartment,4,2,3775,461,Semi-Furnished
+407,Hyderabad,Penthouse,4,1,1577,444,Furnished
+408,Hyderabad,Office,2,1,2205,92,Unfurnished
+409,Kolkata,Villa,5,1,4455,113,Unfurnished
+410,Lucknow,Penthouse,4,2,664,310,Semi-Furnished
+411,Chennai,Penthouse,2,1,4549,195,Furnished
+412,Kolkata,Apartment,2,2,1457,375,Unfurnished
+413,Bangalore,Apartment,5,2,1717,232,Furnished
+414,Kolkata,Office,4,1,1109,380,Furnished
+415,Lucknow,Office,4,1,4185,383,Unfurnished
+416,Delhi,Independent House,2,1,2871,237,Unfurnished
+417,Hyderabad,Apartment,3,2,839,363,Semi-Furnished
+418,Pune,Office,1,1,1008,135,Unfurnished
+419,Kolkata,Apartment,4,2,4277,375,Semi-Furnished
+420,Lucknow,Independent House,5,2,2335,318,Unfurnished
+421,Chennai,Independent House,1,2,1215,135,Semi-Furnished
+422,Lucknow,Penthouse,4,1,4468,399,Semi-Furnished
+423,Mumbai,Apartment,3,2,873,477,Furnished
+424,Bangalore,Independent House,3,2,2505,304,Semi-Furnished
+425,Kolkata,Penthouse,4,2,3189,498,Semi-Furnished
+426,Hyderabad,Penthouse,1,2,1685,70,Furnished
+427,Delhi,Office,5,2,4750,246,Unfurnished
+428,Delhi,Office,5,1,2710,262,Semi-Furnished
+429,Chennai,Villa,3,1,1211,129,Unfurnished
+430,Pune,Independent House,2,1,3843,485,Furnished
+431,Pune,Independent House,5,1,646,377,Semi-Furnished
+432,Delhi,Independent House,4,2,3652,326,Unfurnished
+433,Hyderabad,Villa,1,1,3310,499,Semi-Furnished
+434,Kolkata,Office,4,1,3790,171,Semi-Furnished
+435,Chennai,Apartment,3,1,1443,372,Unfurnished
+436,Kolkata,Apartment,5,2,1759,382,Unfurnished
+437,Chennai,Office,3,1,3861,210,Unfurnished
+438,Lucknow,Apartment,3,1,4828,394,Unfurnished
+439,Pune,Apartment,3,1,1494,150,Semi-Furnished
+440,Delhi,Villa,3,1,1085,183,Unfurnished
+441,Bangalore,Office,2,1,2557,462,Furnished
+442,Bangalore,Penthouse,1,2,3288,439,Furnished
+443,Hyderabad,Independent House,1,2,4155,416,Semi-Furnished
+444,Pune,Office,5,2,2596,276,Unfurnished
+445,Noida,Independent House,3,2,1095,79,Furnished
+446,Kolkata,Apartment,2,1,4281,428,Semi-Furnished
+447,Bangalore,Villa,3,1,2478,443,Unfurnished
+448,Kolkata,Office,2,2,4696,265,Furnished
+449,Kolkata,Penthouse,5,2,2387,198,Unfurnished
+450,Noida,Villa,2,2,1187,386,Unfurnished
+451,Delhi,Penthouse,3,2,1627,379,Semi-Furnished
+452,Lucknow,Penthouse,1,2,1041,429,Furnished
+453,Noida,Independent House,1,2,3781,461,Unfurnished
+454,Noida,Apartment,2,2,3090,391,Unfurnished
+455,Chennai,Office,4,1,2410,332,Unfurnished
+456,Mumbai,Villa,5,2,1660,161,Semi-Furnished
+457,Delhi,Villa,3,1,955,367,Furnished
+458,Chennai,Independent House,5,1,3402,377,Furnished
+459,Delhi,Apartment,2,2,1483,400,Unfurnished
+460,Lucknow,Independent House,1,2,3236,425,Furnished
+461,Delhi,Villa,1,2,1859,423,Semi-Furnished
+462,Noida,Apartment,2,2,3786,91,Semi-Furnished
+463,Mumbai,Independent House,4,2,1940,82,Unfurnished
+464,Hyderabad,Office,4,1,1725,227,Unfurnished
+465,Noida,Penthouse,3,1,3845,412,Unfurnished
+466,Pune,Penthouse,2,1,3736,370,Furnished
+467,Hyderabad,Apartment,5,1,1980,419,Unfurnished
+468,Hyderabad,Apartment,3,1,4174,124,Furnished
+469,Pune,Independent House,5,2,3879,345,Unfurnished
+470,Chennai,Apartment,4,1,3246,398,Furnished
+471,Chennai,Office,2,1,4438,298,Unfurnished
+472,Bangalore,Villa,4,2,3279,321,Furnished
+473,Lucknow,Apartment,4,1,3130,446,Furnished
+474,Mumbai,Independent House,5,2,2900,378,Unfurnished
+475,Mumbai,Penthouse,2,2,1992,135,Furnished
+476,Delhi,Villa,4,2,2479,167,Furnished
+477,Chennai,Villa,2,1,2570,252,Semi-Furnished
+478,Lucknow,Independent House,3,1,4378,123,Furnished
+479,Noida,Office,2,2,4664,209,Furnished
+480,Kolkata,Villa,2,2,2530,421,Furnished
+481,Bangalore,Office,5,1,1706,262,Semi-Furnished
+482,Bangalore,Apartment,4,1,2088,218,Semi-Furnished
+483,Delhi,Penthouse,4,1,850,212,Unfurnished
+484,Delhi,Apartment,3,1,3413,463,Unfurnished
+485,Lucknow,Apartment,2,1,1241,250,Furnished
+486,Kolkata,Villa,3,1,1014,477,Semi-Furnished
+487,Mumbai,Apartment,1,1,3610,443,Furnished
+488,Noida,Penthouse,3,2,1494,457,Semi-Furnished
+489,Pune,Office,4,1,3890,361,Furnished
+490,Chennai,Independent House,5,2,4515,303,Unfurnished
+491,Mumbai,Independent House,3,1,3481,93,Semi-Furnished
+492,Bangalore,Office,2,1,2747,115,Furnished
+493,Noida,Independent House,1,1,881,202,Unfurnished
+494,Bangalore,Penthouse,5,1,3347,454,Unfurnished
+495,Delhi,Office,2,1,3188,410,Semi-Furnished
+496,Hyderabad,Office,1,2,3836,249,Semi-Furnished
+497,Pune,Independent House,1,2,1124,465,Furnished
+498,Lucknow,Apartment,4,2,4981,204,Semi-Furnished
+499,Kolkata,Independent House,4,1,744,458,Unfurnished
+500,Lucknow,Independent House,4,2,4883,436,Furnished
+501,Noida,Office,3,2,1571,387,Unfurnished
+502,Hyderabad,Apartment,1,1,1370,295,Semi-Furnished
+503,Lucknow,Apartment,3,1,2504,135,Unfurnished
+504,Bangalore,Apartment,5,2,4271,465,Furnished
+505,Lucknow,Apartment,5,2,2775,133,Semi-Furnished
+506,Kolkata,Apartment,3,2,3837,447,Unfurnished
+507,Noida,Villa,4,1,2744,479,Unfurnished
+508,Delhi,Penthouse,2,2,3619,303,Furnished
+509,Noida,Penthouse,3,1,1106,390,Furnished
+510,Kolkata,Villa,1,1,889,165,Furnished
+511,Noida,Penthouse,1,2,2217,400,Unfurnished
+512,Noida,Villa,3,2,1116,460,Semi-Furnished
+513,Lucknow,Independent House,2,1,918,307,Unfurnished
+514,Mumbai,Villa,5,2,1749,193,Semi-Furnished
+515,Chennai,Office,5,2,2948,167,Unfurnished
+516,Bangalore,Office,5,2,4602,333,Furnished
+517,Hyderabad,Apartment,3,2,998,411,Furnished
+518,Bangalore,Independent House,5,1,3929,474,Unfurnished
+519,Kolkata,Independent House,3,1,4617,314,Furnished
+520,Mumbai,Penthouse,3,2,2260,427,Semi-Furnished
+521,Hyderabad,Apartment,2,2,2722,84,Unfurnished
+522,Delhi,Independent House,4,2,1117,100,Semi-Furnished
+523,Mumbai,Villa,5,1,1542,180,Furnished
+524,Chennai,Independent House,1,1,599,300,Furnished
+525,Mumbai,Independent House,3,2,533,279,Unfurnished
+526,Pune,Independent House,4,1,3674,251,Unfurnished
+527,Kolkata,Penthouse,4,2,3170,132,Furnished
+528,Hyderabad,Office,4,1,824,466,Semi-Furnished
+529,Hyderabad,Villa,3,2,3616,115,Furnished
+530,Lucknow,Villa,5,2,4569,424,Semi-Furnished
+531,Delhi,Villa,1,1,3527,182,Unfurnished
+532,Mumbai,Villa,5,1,3399,234,Semi-Furnished
+533,Pune,Office,3,1,3453,332,Semi-Furnished
+534,Delhi,Independent House,4,1,4688,477,Semi-Furnished
+535,Pune,Independent House,5,2,3047,141,Unfurnished
+536,Lucknow,Independent House,1,2,4445,487,Semi-Furnished
+537,Bangalore,Apartment,3,2,648,347,Semi-Furnished
+538,Lucknow,Office,4,2,1711,222,Furnished
+539,Noida,Villa,2,2,546,272,Unfurnished
+540,Noida,Office,5,2,1160,137,Unfurnished
+541,Bangalore,Office,1,2,1931,102,Semi-Furnished
+542,Pune,Villa,1,2,1435,308,Unfurnished
+543,Bangalore,Apartment,5,2,4700,180,Unfurnished
+544,Lucknow,Apartment,3,1,2008,441,Furnished
+545,Chennai,Office,4,2,2616,323,Furnished
+546,Bangalore,Penthouse,4,2,4292,300,Unfurnished
+547,Chennai,Penthouse,1,2,3209,352,Semi-Furnished
+548,Chennai,Apartment,2,1,3633,453,Furnished
+549,Noida,Villa,2,2,1808,50,Semi-Furnished
+550,Mumbai,Office,1,2,2706,260,Unfurnished
+551,Lucknow,Apartment,4,2,1185,78,Furnished
+552,Pune,Apartment,2,2,2024,79,Unfurnished
+553,Mumbai,Independent House,1,2,4393,152,Semi-Furnished
+554,Kolkata,Penthouse,2,1,1793,205,Semi-Furnished
+555,Delhi,Penthouse,4,2,4117,134,Unfurnished
+556,Mumbai,Independent House,3,1,2395,277,Semi-Furnished
+557,Noida,Villa,2,2,3338,61,Unfurnished
+558,Chennai,Office,2,2,1329,346,Semi-Furnished
+559,Noida,Office,2,2,869,104,Unfurnished
+560,Pune,Villa,4,1,3934,55,Furnished
+561,Pune,Office,1,1,4717,269,Furnished
+562,Bangalore,Independent House,4,2,1677,267,Furnished
+563,Kolkata,Office,5,2,4711,255,Furnished
+564,Kolkata,Villa,4,1,1195,430,Semi-Furnished
+565,Lucknow,Penthouse,1,2,2183,249,Furnished
+566,Noida,Penthouse,4,2,681,482,Semi-Furnished
+567,Chennai,Villa,4,1,3506,257,Unfurnished
+568,Kolkata,Independent House,5,1,4001,317,Unfurnished
+569,Bangalore,Office,5,1,3426,376,Unfurnished
+570,Kolkata,Apartment,5,1,4577,171,Semi-Furnished
+571,Noida,Apartment,1,2,3183,354,Unfurnished
+572,Lucknow,Penthouse,1,2,1838,331,Unfurnished
+573,Hyderabad,Office,4,2,4471,405,Unfurnished
+574,Pune,Office,2,2,2354,452,Unfurnished
+575,Hyderabad,Penthouse,3,2,3724,361,Unfurnished
+576,Bangalore,Penthouse,1,1,4018,72,Unfurnished
+577,Noida,Villa,1,2,4279,483,Unfurnished
+578,Lucknow,Independent House,4,2,1100,449,Semi-Furnished
+579,Pune,Penthouse,3,2,4089,327,Unfurnished
+580,Pune,Villa,5,1,5000,241,Semi-Furnished
+581,Kolkata,Independent House,1,1,2559,260,Unfurnished
+582,Chennai,Villa,3,1,4863,443,Furnished
+583,Bangalore,Villa,5,1,4858,388,Furnished
+584,Chennai,Penthouse,4,1,3948,128,Furnished
+585,Hyderabad,Villa,4,2,836,294,Unfurnished
+586,Pune,Villa,1,1,3723,245,Unfurnished
+587,Pune,Villa,5,2,3619,137,Furnished
+588,Mumbai,Villa,2,1,3248,443,Furnished
+589,Delhi,Penthouse,2,2,3037,381,Unfurnished
+590,Noida,Independent House,3,1,1523,189,Furnished
+591,Hyderabad,Villa,2,1,2138,194,Semi-Furnished
+592,Bangalore,Independent House,5,1,3987,219,Semi-Furnished
+593,Noida,Office,3,2,513,305,Unfurnished
+594,Lucknow,Office,1,2,4882,254,Unfurnished
+595,Noida,Villa,4,1,4556,424,Unfurnished
+596,Kolkata,Independent House,4,1,1768,111,Semi-Furnished
+597,Mumbai,Apartment,2,2,4731,215,Semi-Furnished
+598,Pune,Penthouse,3,1,2877,495,Furnished
+599,Kolkata,Villa,5,1,4327,258,Semi-Furnished
+600,Pune,Independent House,3,1,1695,90,Unfurnished
+601,Lucknow,Independent House,1,2,3152,268,Semi-Furnished
+602,Delhi,Independent House,2,2,1370,378,Semi-Furnished
+603,Noida,Independent House,5,1,4609,267,Semi-Furnished
+604,Hyderabad,Penthouse,3,2,3647,132,Semi-Furnished
+605,Mumbai,Penthouse,1,1,1574,370,Unfurnished
+606,Hyderabad,Apartment,3,1,4162,395,Unfurnished
+607,Bangalore,Penthouse,3,2,2193,130,Furnished
+608,Noida,Apartment,5,1,1653,407,Semi-Furnished
+609,Hyderabad,Office,5,1,1751,114,Semi-Furnished
+610,Hyderabad,Independent House,3,2,3192,346,Furnished
+611,Bangalore,Penthouse,5,1,790,191,Unfurnished
+612,Mumbai,Apartment,3,1,4087,221,Furnished
+613,Delhi,Independent House,1,2,3901,290,Semi-Furnished
+614,Lucknow,Independent House,3,2,3043,429,Semi-Furnished
+615,Lucknow,Independent House,2,1,4337,461,Furnished
+616,Bangalore,Independent House,3,1,2027,499,Semi-Furnished
+617,Bangalore,Apartment,2,2,4041,432,Unfurnished
+618,Chennai,Office,2,2,3756,104,Unfurnished
+619,Chennai,Independent House,2,2,3509,325,Semi-Furnished
+620,Chennai,Villa,2,1,3629,316,Unfurnished
+621,Delhi,Independent House,3,1,1191,117,Unfurnished
+622,Kolkata,Penthouse,5,2,816,452,Unfurnished
+623,Chennai,Independent House,1,2,1468,396,Furnished
+624,Delhi,Apartment,3,2,1349,404,Furnished
+625,Bangalore,Independent House,2,1,3048,345,Unfurnished
+626,Kolkata,Apartment,1,2,615,233,Semi-Furnished
+627,Noida,Office,4,2,3305,429,Unfurnished
+628,Chennai,Independent House,2,2,3965,286,Furnished
+629,Chennai,Penthouse,1,2,1382,151,Unfurnished
+630,Noida,Villa,5,1,867,246,Unfurnished
+631,Noida,Independent House,3,2,1055,159,Furnished
+632,Mumbai,Office,2,1,1373,213,Furnished
+633,Delhi,Villa,4,1,978,291,Furnished
+634,Delhi,Office,4,2,4742,410,Furnished
+635,Kolkata,Penthouse,5,1,3988,428,Semi-Furnished
+636,Hyderabad,Office,2,2,1664,281,Unfurnished
+637,Mumbai,Villa,2,1,607,105,Furnished
+638,Bangalore,Apartment,5,2,4794,221,Furnished
+639,Pune,Independent House,3,2,4893,452,Furnished
+640,Kolkata,Penthouse,5,1,2349,411,Unfurnished
+641,Bangalore,Independent House,3,1,2199,52,Furnished
+642,Lucknow,Villa,2,1,4738,95,Semi-Furnished
+643,Kolkata,Independent House,4,1,2493,350,Semi-Furnished
+644,Lucknow,Independent House,3,1,4895,366,Unfurnished
+645,Hyderabad,Villa,3,2,4319,164,Unfurnished
+646,Hyderabad,Independent House,5,2,525,437,Furnished
+647,Chennai,Apartment,4,2,4989,367,Furnished
+648,Delhi,Villa,2,1,1290,187,Furnished
+649,Hyderabad,Villa,3,2,3444,85,Furnished
+650,Pune,Independent House,1,1,1814,209,Semi-Furnished
+651,Lucknow,Villa,3,2,1087,432,Furnished
+652,Lucknow,Independent House,4,2,1617,328,Semi-Furnished
+653,Delhi,Apartment,4,2,2758,364,Semi-Furnished
+654,Delhi,Penthouse,2,1,1682,187,Unfurnished
+655,Lucknow,Office,5,2,3458,268,Furnished
+656,Delhi,Apartment,5,1,833,460,Semi-Furnished
+657,Kolkata,Independent House,2,2,2704,175,Unfurnished
+658,Bangalore,Villa,3,1,4431,133,Semi-Furnished
+659,Noida,Penthouse,4,1,2244,118,Furnished
+660,Pune,Office,1,1,3316,292,Unfurnished
+661,Noida,Apartment,5,1,1606,232,Furnished
+662,Hyderabad,Penthouse,5,1,1933,96,Unfurnished
+663,Bangalore,Penthouse,1,1,3734,361,Unfurnished
+664,Delhi,Villa,2,1,1909,299,Unfurnished
+665,Lucknow,Penthouse,4,2,2226,454,Furnished
+666,Bangalore,Office,5,2,4524,357,Semi-Furnished
+667,Hyderabad,Independent House,1,2,2603,50,Furnished
+668,Chennai,Office,3,1,1995,356,Semi-Furnished
+669,Bangalore,Penthouse,1,2,1896,157,Unfurnished
+670,Chennai,Villa,4,1,3861,185,Furnished
+671,Bangalore,Penthouse,4,2,684,124,Unfurnished
+672,Delhi,Villa,2,1,736,243,Furnished
+673,Hyderabad,Penthouse,2,2,4270,372,Unfurnished
+674,Delhi,Penthouse,2,1,1342,83,Semi-Furnished
+675,Bangalore,Independent House,4,2,2051,334,Furnished
+676,Chennai,Independent House,2,1,4550,167,Semi-Furnished
+677,Pune,Office,1,1,2900,454,Semi-Furnished
+678,Hyderabad,Villa,1,1,1403,413,Furnished
+679,Mumbai,Independent House,3,2,1036,386,Furnished
+680,Lucknow,Villa,5,1,1734,306,Semi-Furnished
+681,Lucknow,Office,2,2,2671,476,Semi-Furnished
+682,Hyderabad,Villa,1,2,1710,363,Furnished
+683,Mumbai,Villa,4,2,948,97,Furnished
+684,Hyderabad,Villa,5,2,1425,410,Unfurnished
+685,Kolkata,Apartment,2,2,4584,467,Semi-Furnished
+686,Delhi,Office,2,1,2655,261,Furnished
+687,Lucknow,Office,2,2,3914,149,Semi-Furnished
+688,Lucknow,Penthouse,5,1,1586,444,Semi-Furnished
+689,Pune,Villa,2,1,854,393,Semi-Furnished
+690,Hyderabad,Penthouse,3,1,1201,184,Furnished
+691,Kolkata,Independent House,2,1,1555,444,Semi-Furnished
+692,Noida,Apartment,5,1,2331,486,Unfurnished
+693,Pune,Penthouse,2,2,1988,242,Furnished
+694,Pune,Office,2,2,3021,287,Furnished
+695,Lucknow,Apartment,2,1,2532,481,Semi-Furnished
+696,Chennai,Independent House,1,1,4760,343,Furnished
+697,Noida,Apartment,3,1,2109,199,Furnished
+698,Kolkata,Office,1,1,4391,255,Unfurnished
+699,Noida,Penthouse,4,1,4236,53,Unfurnished
+700,Pune,Villa,2,2,1607,257,Semi-Furnished
+701,Pune,Penthouse,1,1,1199,298,Unfurnished
+702,Pune,Apartment,4,1,2453,389,Unfurnished
+703,Noida,Independent House,1,2,2551,125,Unfurnished
+704,Mumbai,Office,3,2,4987,427,Unfurnished
+705,Bangalore,Apartment,5,2,1122,460,Semi-Furnished
+706,Pune,Office,2,2,4099,105,Unfurnished
+707,Bangalore,Apartment,3,2,3666,317,Unfurnished
+708,Lucknow,Independent House,3,1,1842,239,Unfurnished
+709,Hyderabad,Penthouse,3,2,4447,397,Furnished
+710,Lucknow,Office,2,2,809,67,Furnished
+711,Lucknow,Penthouse,5,1,1962,119,Furnished
+712,Delhi,Independent House,3,2,3138,125,Semi-Furnished
+713,Noida,Penthouse,2,1,636,199,Unfurnished
+714,Kolkata,Penthouse,1,1,2916,192,Unfurnished
+715,Delhi,Villa,5,2,4325,141,Unfurnished
+716,Mumbai,Office,3,2,1663,498,Unfurnished
+717,Noida,Office,5,1,1160,103,Semi-Furnished
+718,Pune,Independent House,3,1,4681,351,Semi-Furnished
+719,Hyderabad,Villa,2,2,2004,145,Furnished
+720,Kolkata,Apartment,3,1,3096,55,Furnished
+721,Lucknow,Apartment,1,2,789,368,Unfurnished
+722,Lucknow,Independent House,2,1,1716,267,Furnished
+723,Pune,Office,1,2,1974,73,Semi-Furnished
+724,Bangalore,Office,5,2,3676,432,Unfurnished
+725,Noida,Villa,3,2,3056,166,Unfurnished
+726,Mumbai,Apartment,5,1,3912,247,Semi-Furnished
+727,Pune,Villa,5,1,3994,279,Semi-Furnished
+728,Kolkata,Independent House,1,2,4628,306,Semi-Furnished
+729,Bangalore,Independent House,5,2,4416,367,Unfurnished
+730,Chennai,Apartment,4,1,2020,461,Semi-Furnished
+731,Noida,Apartment,2,1,1933,152,Furnished
+732,Noida,Apartment,5,1,2295,305,Semi-Furnished
+733,Lucknow,Independent House,3,2,4608,190,Furnished
+734,Noida,Penthouse,1,2,3924,258,Furnished
+735,Chennai,Independent House,4,2,4431,423,Semi-Furnished
+736,Mumbai,Penthouse,5,1,4959,325,Semi-Furnished
+737,Noida,Penthouse,4,2,3883,297,Furnished
+738,Lucknow,Penthouse,4,2,2958,349,Semi-Furnished
+739,Noida,Penthouse,5,1,2742,60,Furnished
+740,Kolkata,Apartment,2,2,2239,115,Unfurnished
+741,Noida,Apartment,5,1,4295,161,Semi-Furnished
+742,Mumbai,Villa,3,2,3660,114,Semi-Furnished
+743,Noida,Apartment,2,2,2113,102,Furnished
+744,Kolkata,Independent House,5,1,613,64,Semi-Furnished
+745,Kolkata,Apartment,4,1,4605,68,Furnished
+746,Hyderabad,Apartment,1,2,3123,362,Semi-Furnished
+747,Mumbai,Apartment,3,1,2647,74,Unfurnished
+748,Hyderabad,Independent House,2,1,2553,102,Unfurnished
+749,Mumbai,Independent House,1,1,4965,139,Semi-Furnished
+750,Chennai,Office,3,1,1172,391,Unfurnished
+751,Pune,Apartment,1,2,2957,81,Semi-Furnished
+752,Lucknow,Villa,1,2,4241,135,Unfurnished
+753,Mumbai,Apartment,2,1,567,238,Furnished
+754,Noida,Independent House,3,2,1664,476,Unfurnished
+755,Pune,Office,3,1,3707,485,Furnished
+756,Chennai,Independent House,3,2,3994,233,Unfurnished
+757,Pune,Apartment,1,1,4365,311,Furnished
+758,Noida,Apartment,3,2,3298,461,Unfurnished
+759,Delhi,Office,5,1,3233,204,Furnished
+760,Chennai,Apartment,5,2,1112,456,Semi-Furnished
+761,Bangalore,Independent House,2,2,4633,160,Furnished
+762,Hyderabad,Independent House,5,1,673,437,Semi-Furnished
+763,Delhi,Office,4,2,2429,377,Semi-Furnished
+764,Delhi,Independent House,3,2,3696,324,Furnished
+765,Mumbai,Apartment,2,2,1830,336,Unfurnished
+766,Noida,Penthouse,2,1,1207,70,Unfurnished
+767,Chennai,Independent House,4,2,4027,73,Unfurnished
+768,Chennai,Penthouse,5,2,1126,113,Unfurnished
+769,Pune,Villa,4,2,3119,470,Unfurnished
+770,Lucknow,Independent House,2,2,2900,229,Semi-Furnished
+771,Bangalore,Independent House,3,2,2440,186,Semi-Furnished
+772,Pune,Office,4,2,3955,256,Furnished
+773,Noida,Villa,3,2,3043,427,Unfurnished
+774,Mumbai,Penthouse,3,1,2475,323,Unfurnished
+775,Delhi,Villa,4,2,592,247,Furnished
+776,Mumbai,Penthouse,4,1,1322,462,Semi-Furnished
+777,Kolkata,Independent House,2,1,2314,85,Semi-Furnished
+778,Mumbai,Independent House,5,1,1863,463,Semi-Furnished
+779,Chennai,Apartment,1,2,3702,452,Unfurnished
+780,Mumbai,Penthouse,3,2,3051,60,Semi-Furnished
+781,Noida,Penthouse,5,1,1633,62,Furnished
+782,Bangalore,Apartment,3,2,1366,213,Furnished
+783,Kolkata,Independent House,4,2,4312,69,Unfurnished
+784,Mumbai,Office,3,1,2794,271,Unfurnished
+785,Pune,Office,2,1,2069,83,Unfurnished
+786,Pune,Office,2,1,4720,164,Furnished
+787,Lucknow,Independent House,4,1,3923,108,Furnished
+788,Lucknow,Independent House,3,2,3303,364,Semi-Furnished
+789,Hyderabad,Penthouse,4,2,3498,82,Unfurnished
+790,Noida,Apartment,2,1,2253,296,Furnished
+791,Lucknow,Penthouse,1,1,1676,446,Furnished
+792,Kolkata,Villa,2,2,959,143,Furnished
+793,Pune,Villa,5,1,4564,232,Furnished
+794,Hyderabad,Penthouse,2,1,3573,266,Semi-Furnished
+795,Delhi,Independent House,1,1,973,316,Semi-Furnished
+796,Pune,Penthouse,1,2,2915,108,Semi-Furnished
+797,Pune,Apartment,2,2,2386,392,Unfurnished
+798,Noida,Villa,4,1,1074,258,Semi-Furnished
+799,Bangalore,Villa,1,2,1434,173,Furnished
+800,Mumbai,Apartment,4,1,1742,141,Semi-Furnished
+801,Chennai,Office,4,2,4823,404,Furnished
+802,Bangalore,Office,5,1,2233,366,Unfurnished
+803,Chennai,Villa,2,1,4170,79,Unfurnished
+804,Pune,Office,5,2,2669,309,Unfurnished
+805,Delhi,Apartment,2,1,4379,349,Semi-Furnished
+806,Kolkata,Apartment,2,1,4262,176,Semi-Furnished
+807,Lucknow,Villa,2,2,4551,447,Semi-Furnished
+808,Pune,Villa,3,1,4674,342,Furnished
+809,Mumbai,Independent House,4,2,2254,401,Furnished
+810,Hyderabad,Office,1,2,4644,379,Semi-Furnished
+811,Kolkata,Penthouse,5,1,2607,154,Unfurnished
+812,Hyderabad,Villa,1,2,4600,139,Semi-Furnished
+813,Kolkata,Villa,1,1,2019,243,Unfurnished
+814,Bangalore,Penthouse,4,1,3384,403,Furnished
+815,Lucknow,Villa,5,1,2106,150,Unfurnished
+816,Hyderabad,Apartment,1,2,1055,102,Semi-Furnished
+817,Hyderabad,Office,3,1,815,262,Unfurnished
+818,Bangalore,Apartment,1,2,1769,208,Unfurnished
+819,Noida,Penthouse,4,2,3559,267,Unfurnished
+820,Bangalore,Apartment,4,2,3780,265,Semi-Furnished
+821,Mumbai,Office,2,1,2369,204,Unfurnished
+822,Chennai,Villa,1,2,959,299,Semi-Furnished
+823,Delhi,Office,1,1,1777,469,Semi-Furnished
+824,Pune,Villa,1,2,1407,424,Semi-Furnished
+825,Mumbai,Apartment,2,2,1765,195,Unfurnished
+826,Lucknow,Office,2,2,1606,135,Semi-Furnished
+827,Hyderabad,Independent House,5,1,2843,224,Semi-Furnished
+828,Lucknow,Apartment,3,2,3141,255,Unfurnished
+829,Kolkata,Villa,1,2,4731,435,Furnished
+830,Mumbai,Villa,3,2,4642,237,Semi-Furnished
+831,Noida,Villa,2,1,2481,265,Furnished
+832,Lucknow,Penthouse,5,1,1759,420,Semi-Furnished
+833,Lucknow,Penthouse,4,2,1513,400,Semi-Furnished
+834,Bangalore,Independent House,4,1,1589,375,Unfurnished
+835,Noida,Office,5,2,1849,415,Unfurnished
+836,Delhi,Penthouse,5,1,2979,243,Unfurnished
+837,Mumbai,Penthouse,4,2,3360,383,Semi-Furnished
+838,Mumbai,Apartment,5,2,1127,240,Semi-Furnished
+839,Bangalore,Office,1,1,2145,491,Unfurnished
+840,Delhi,Villa,2,1,1170,102,Furnished
+841,Chennai,Villa,2,2,1128,396,Unfurnished
+842,Chennai,Independent House,3,1,1147,245,Furnished
+843,Lucknow,Apartment,3,1,1454,83,Unfurnished
+844,Pune,Apartment,4,2,696,328,Unfurnished
+845,Hyderabad,Independent House,3,2,4996,476,Furnished
+846,Chennai,Office,3,2,1355,399,Unfurnished
+847,Lucknow,Independent House,3,1,4322,268,Furnished
+848,Lucknow,Apartment,1,2,4147,95,Semi-Furnished
+849,Bangalore,Independent House,3,2,4768,217,Semi-Furnished
+850,Hyderabad,Penthouse,4,2,1902,184,Furnished
+851,Delhi,Independent House,5,2,2569,480,Semi-Furnished
+852,Hyderabad,Villa,3,2,2354,326,Semi-Furnished
+853,Bangalore,Office,1,1,2532,335,Semi-Furnished
+854,Mumbai,Apartment,3,2,2531,252,Semi-Furnished
+855,Kolkata,Penthouse,5,2,1472,96,Furnished
+856,Hyderabad,Apartment,5,1,4048,165,Semi-Furnished
+857,Hyderabad,Apartment,4,1,3878,341,Unfurnished
+858,Hyderabad,Villa,2,1,2738,338,Semi-Furnished
+859,Chennai,Penthouse,5,2,4229,326,Unfurnished
+860,Chennai,Apartment,5,2,885,108,Semi-Furnished
+861,Kolkata,Apartment,4,1,2870,140,Furnished
+862,Chennai,Apartment,3,2,723,72,Unfurnished
+863,Noida,Villa,4,1,2630,254,Semi-Furnished
+864,Lucknow,Apartment,1,1,1869,179,Semi-Furnished
+865,Bangalore,Office,4,2,3518,78,Furnished
+866,Mumbai,Office,4,1,4282,274,Unfurnished
+867,Mumbai,Office,1,1,3093,104,Semi-Furnished
+868,Pune,Independent House,5,2,2367,391,Furnished
+869,Kolkata,Office,2,1,1001,150,Furnished
+870,Kolkata,Villa,5,1,2083,302,Furnished
+871,Kolkata,Independent House,4,1,2068,329,Unfurnished
+872,Mumbai,Apartment,1,1,1046,339,Unfurnished
+873,Mumbai,Penthouse,3,2,3194,294,Furnished
+874,Mumbai,Villa,1,1,3061,345,Semi-Furnished
+875,Pune,Apartment,2,2,2324,307,Furnished
+876,Mumbai,Villa,4,2,1939,176,Semi-Furnished
+877,Lucknow,Penthouse,5,1,4932,470,Furnished
+878,Bangalore,Office,3,1,4872,216,Unfurnished
+879,Bangalore,Penthouse,1,2,4828,383,Semi-Furnished
+880,Noida,Office,2,2,3403,107,Furnished
+881,Delhi,Penthouse,4,1,2703,140,Furnished
+882,Bangalore,Independent House,1,2,2093,77,Semi-Furnished
+883,Lucknow,Penthouse,3,1,4061,262,Furnished
+884,Chennai,Villa,1,1,1966,465,Unfurnished
+885,Bangalore,Independent House,2,2,4046,87,Furnished
+886,Kolkata,Penthouse,4,1,4674,91,Unfurnished
+887,Noida,Apartment,1,2,4194,345,Unfurnished
+888,Hyderabad,Penthouse,3,2,4631,320,Unfurnished
+889,Mumbai,Villa,5,2,2173,237,Unfurnished
+890,Noida,Independent House,4,1,2306,425,Semi-Furnished
+891,Noida,Villa,2,2,557,350,Unfurnished
+892,Delhi,Office,1,2,3425,191,Semi-Furnished
+893,Noida,Independent House,4,1,667,399,Furnished
+894,Bangalore,Penthouse,3,2,4281,423,Semi-Furnished
+895,Kolkata,Apartment,1,2,1010,163,Semi-Furnished
+896,Pune,Penthouse,3,1,1057,54,Semi-Furnished
+897,Pune,Villa,1,2,1988,153,Semi-Furnished
+898,Lucknow,Penthouse,1,2,4143,184,Semi-Furnished
+899,Lucknow,Office,4,1,1995,195,Unfurnished
+900,Bangalore,Villa,5,1,4240,230,Unfurnished
+901,Bangalore,Office,5,1,1262,335,Furnished
+902,Delhi,Villa,1,1,3216,367,Unfurnished
+903,Noida,Office,2,1,652,289,Unfurnished
+904,Noida,Independent House,2,2,3429,104,Unfurnished
+905,Lucknow,Office,5,1,929,233,Furnished
+906,Bangalore,Villa,3,1,1755,259,Furnished
+907,Noida,Independent House,3,1,1798,316,Unfurnished
+908,Chennai,Apartment,5,2,3893,200,Unfurnished
+909,Delhi,Penthouse,5,2,4015,64,Semi-Furnished
+910,Pune,Office,2,1,4360,347,Semi-Furnished
+911,Kolkata,Villa,3,1,1191,365,Unfurnished
+912,Mumbai,Villa,2,1,4893,395,Semi-Furnished
+913,Delhi,Independent House,5,1,2454,269,Unfurnished
+914,Hyderabad,Office,2,2,3305,249,Semi-Furnished
+915,Mumbai,Villa,2,2,2986,83,Semi-Furnished
+916,Noida,Villa,2,2,1147,97,Semi-Furnished
+917,Hyderabad,Penthouse,3,2,4293,295,Furnished
+918,Hyderabad,Office,2,1,1171,488,Semi-Furnished
+919,Chennai,Apartment,2,2,4201,271,Furnished
+920,Delhi,Penthouse,1,1,3148,202,Furnished
+921,Mumbai,Villa,4,1,2394,350,Semi-Furnished
+922,Mumbai,Villa,1,1,4613,333,Unfurnished
+923,Bangalore,Penthouse,3,2,2626,50,Unfurnished
+924,Mumbai,Villa,2,1,1734,349,Furnished
+925,Lucknow,Independent House,1,1,1091,406,Furnished
+926,Bangalore,Independent House,5,1,3862,200,Unfurnished
+927,Noida,Villa,1,2,3482,327,Unfurnished
+928,Pune,Independent House,3,1,3616,171,Semi-Furnished
+929,Noida,Apartment,3,1,4630,113,Semi-Furnished
+930,Kolkata,Villa,3,1,1895,53,Semi-Furnished
+931,Chennai,Penthouse,5,2,4294,291,Semi-Furnished
+932,Mumbai,Penthouse,5,2,702,405,Semi-Furnished
+933,Hyderabad,Independent House,1,1,4994,499,Furnished
+934,Hyderabad,Apartment,2,1,1380,396,Unfurnished
+935,Kolkata,Penthouse,2,2,4865,241,Unfurnished
+936,Noida,Office,3,2,2765,153,Furnished
+937,Bangalore,Penthouse,4,1,1522,382,Semi-Furnished
+938,Pune,Office,5,1,3465,60,Semi-Furnished
+939,Chennai,Office,5,1,3326,420,Furnished
+940,Pune,Penthouse,2,2,1536,227,Unfurnished
+941,Bangalore,Office,2,2,1866,226,Furnished
+942,Chennai,Independent House,5,2,4040,90,Semi-Furnished
+943,Noida,Independent House,5,2,3996,263,Furnished
+944,Kolkata,Independent House,4,2,3831,274,Unfurnished
+945,Bangalore,Office,5,2,3413,234,Unfurnished
+946,Bangalore,Independent House,3,1,4407,230,Furnished
+947,Delhi,Apartment,5,1,1636,286,Semi-Furnished
+948,Pune,Independent House,3,1,3961,500,Unfurnished
+949,Noida,Villa,4,1,4796,202,Furnished
+950,Mumbai,Office,1,1,4057,295,Semi-Furnished
+951,Chennai,Independent House,2,1,3466,489,Furnished
+952,Noida,Apartment,3,2,910,482,Semi-Furnished
+953,Bangalore,Office,2,1,2600,161,Furnished
+954,Chennai,Penthouse,3,1,876,361,Semi-Furnished
+955,Kolkata,Independent House,1,2,1763,432,Unfurnished
+956,Noida,Independent House,1,2,3001,240,Furnished
+957,Kolkata,Independent House,3,1,1154,273,Furnished
+958,Kolkata,Office,3,1,1146,238,Furnished
+959,Chennai,Independent House,3,1,1066,372,Semi-Furnished
+960,Chennai,Penthouse,4,1,1425,359,Unfurnished
+961,Kolkata,Independent House,3,1,3447,375,Semi-Furnished
+962,Mumbai,Apartment,5,1,4855,412,Furnished
+963,Chennai,Villa,5,1,3164,88,Furnished
+964,Lucknow,Villa,3,1,1106,410,Furnished
+965,Lucknow,Penthouse,4,2,4440,132,Unfurnished
+966,Delhi,Office,3,2,3554,414,Unfurnished
+967,Delhi,Villa,2,1,4142,342,Unfurnished
+968,Noida,Villa,5,1,1771,89,Unfurnished
+969,Chennai,Apartment,2,1,2195,447,Unfurnished
+970,Delhi,Apartment,3,2,1637,339,Semi-Furnished
+971,Noida,Independent House,3,2,3030,315,Unfurnished
+972,Bangalore,Independent House,3,2,4781,321,Furnished
+973,Delhi,Office,1,1,3556,337,Semi-Furnished
+974,Bangalore,Villa,3,2,3586,414,Semi-Furnished
+975,Delhi,Apartment,3,2,4836,142,Furnished
+976,Lucknow,Apartment,5,1,3517,74,Furnished
+977,Delhi,Penthouse,3,2,2715,90,Semi-Furnished
+978,Delhi,Office,1,2,2209,92,Semi-Furnished
+979,Hyderabad,Penthouse,4,1,795,241,Semi-Furnished
+980,Bangalore,Villa,5,2,570,432,Furnished
+981,Chennai,Apartment,3,1,3789,400,Unfurnished
+982,Kolkata,Office,3,2,3752,218,Furnished
+983,Pune,Penthouse,2,1,1373,167,Unfurnished
+984,Delhi,Office,2,1,2390,381,Furnished
+985,Kolkata,Independent House,2,2,889,300,Unfurnished
+986,Mumbai,Independent House,5,2,721,474,Semi-Furnished
+987,Pune,Penthouse,1,1,792,247,Unfurnished
+988,Bangalore,Villa,2,1,3253,214,Semi-Furnished
+989,Hyderabad,Independent House,5,2,3400,178,Furnished
+990,Delhi,Independent House,5,1,3864,143,Unfurnished
+991,Chennai,Penthouse,2,2,1701,221,Unfurnished
+992,Noida,Office,3,1,3459,334,Unfurnished
+993,Mumbai,Apartment,4,2,3305,210,Semi-Furnished
+994,Hyderabad,Villa,4,2,2315,444,Furnished
+995,Pune,Penthouse,2,1,2604,251,Semi-Furnished
+996,Delhi,Office,2,1,4947,305,Furnished
+997,Noida,Apartment,4,1,3726,403,Semi-Furnished
+998,Pune,Apartment,3,1,3786,248,Unfurnished
+999,Noida,Villa,3,2,1848,198,Semi-Furnished
+1000,Lucknow,Independent House,1,2,3990,181,Semi-Furnished
